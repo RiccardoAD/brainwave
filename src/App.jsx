@@ -1,19 +1,20 @@
-import ButtonGradient from './assets/svg/ButtonGradient'
+import ButtonGradient from "./assets/svg/ButtonGradient";
+// import Button from "./components/Button";
+import Header from "./components/Header";
 
-import './App.css'
-
-const App = () =>{
-
-
+const App = () => {
   return (
     <>
-    <div>
-      
-    </div>
-      <ButtonGradient/>
+      {/* <h1 className="text-3xl font-bold underline">Hello world!</h1> */}
+      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
+        {/* <Button className="mt-10" href="#login">
+          Something
+        </Button> */}
+        <Header />
+      </div>
+      <ButtonGradient />
     </>
-  )
-}
+  );
+};
 
-
-export default App
+export default App;
