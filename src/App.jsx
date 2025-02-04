@@ -6,6 +6,8 @@ import Benefits from "./components/Benefits";
 import Services from "./components/Services";
 import Collaboration from "./components/Collaboration";
 import Pricing from "./components/Pricing";
+import Footer from "./components/Footer";
+import Roadmap from "./components/Roadmap";
 
 const App = () => {
   return (
@@ -21,6 +23,8 @@ const App = () => {
         <Collaboration />
         <Services />
         <Pricing />
+        <Roadmap />
+        <Footer />
 
       </div>
       <ButtonGradient />
