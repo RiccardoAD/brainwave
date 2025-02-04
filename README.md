@@ -11,7 +11,7 @@ Brainwave is the AI chat app that allows you to have intelligent and personalize
 <p align="center">
   
   <img src="public/preview1.png" alt="Size Limit CLI" width="500">
-  <img src="public/preview2.png" alt="Size Limit CLI" width="350" style="height:650px;">
+  <img src="public/preview2.png" alt="Size Limit CLI" width="350" >
 </p>
 
 # Example page
