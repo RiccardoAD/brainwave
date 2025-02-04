@@ -3,7 +3,7 @@ import ButtonGradient from "./assets/svg/ButtonGradient";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Benefits from "./components/Benefits";
-import Services from "./components/Services";
+import Services from "./components/Service";
 import Collaboration from "./components/Collaboration";
 import Pricing from "./components/Pricing";
 import Footer from "./components/Footer";
